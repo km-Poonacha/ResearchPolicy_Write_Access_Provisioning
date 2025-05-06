@@ -1,0 +1,32 @@
+************ MLP Classifier *************
+*** MLP Classifier - One stage - Novelty5 ***
+accuracy is =  0.33157894736842103
+f1  0.21501473128679324
+*** MLP Classifier - Two stage - Novelty5 ***
+accuracy is =  0.6684210526315789
+f1  0.5244554899727314
+MLP Classifier - Two stage - Novelty5  0.6684210526315789
+*** MLP Classifier - One stage - Novelty3 ***
+C:\Users\pmedappa\AppData\Local\Continuum\anaconda3\lib\site-packages\sklearn\metrics\classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+accuracy is =  0.5684210526315789
+f1  0.3078954405669207
+*** MLP Classifier - Two stage - Novelty3 ***
+accuracy is =  0.6631578947368421
+f1  0.5266070970668876
+MLP Classifier - Two stage - Novelty3  0.6631578947368421
+************ MLP Classifier *************
+*** MLP Classifier - One stage - Usefulness5 ***
+accuracy is =  0.2894736842105263
+f1  0.22787631979991732
+*** MLP Classifier - Two stage - Usefulness5 ***
+accuracy is =  0.6052631578947368
+f1  0.5008636355936921
+MLP Classifier - Two stage - Usefulness5  0.6052631578947368
+*** MLP Classifier - One stage - Usefulness3 ***
+accuracy is =  0.48947368421052634
+f1  0.3836478370076976
+*** MLP Classifier - Two stage - Usefulness3 ***
+accuracy is =  0.5473684210526316
+f1  0.4282480583850447
+MLP Classifier - Two stage - Usefulness3  0.5473684210526316
